@@ -15,7 +15,7 @@ Anyone starting with version control: students, self-learners, and new developer
 ## Learning Roadmap
 
 - [x] What Git and GitHub are, and how they differ
-- [x] Core terms: repository, branch, commit, clone, push, pull, pull request
+- [ ] Core terms: repository, branch, commit, clone, push, pull, pull request
 - [ ] Creating and cloning repositories
 - [ ] add, commit, push, and pull
 - [ ] Git configuration and SSH keys
@@ -46,7 +46,7 @@ Anyone starting with version control: students, self-learners, and new developer
 - [Learn Git Branching](https://learngitbranching.js.org)
 - [GitHub Skills](https://skills.github.com)
 - [Oh Shit, Git!?!](https://ohshitgit.com)
-- Elzero Web School: Learn Git & GitHub (Arabic) playlist on YouTube [Here is Playlis](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+- Elzero Web School: Learn Git & GitHub (Arabic) playlist on YouTube [Here is Playlist](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
 ## How to Use This Repo
 
